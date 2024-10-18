@@ -1,0 +1,19 @@
+body {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+.section {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
